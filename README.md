@@ -2,7 +2,8 @@
 Ideas and proposals for Town Hall app
 Name: Town Hall- A voting discussion platform for localities
 
-Purpose: Agenda propositioning, and  voting delegation.
+Purpose 
+Agenda propositioning, and  voting delegation.
 This is will allow for localities and neighborhoods to create a form of represention on the network to present issues that are in demand or that brought to attention. Issues would then be voted on and prioritized according to members of the network. Different members would then be able according to Rank and skill set present proposals and offer solutions. Solutions would be voted on, delegated and then implemented. Tokens would be issued to create funding for active campaigns and the workable solutions. 
 
 Description
@@ -15,6 +16,7 @@ A daily listing would head with a to 5 to do list of ítems that need to be addr
 
 Ranking
 If issues have been resolved, a solution board would attach selfies of issues taken care or other forms of solution management (reciepts of purchases for community ítems, etc). Likeable features and comment sections would then rank members that managed the issues in the community and expand skill sets of delegation.
+
 Conclusion
 This is definitely a work in progress, but once a prototype can be engage this mobile form addressing issues is one’s neighbor Hood, living complex, apartment complex, or other locality can definite aid in connecting individuals to work toward common goals.
 
